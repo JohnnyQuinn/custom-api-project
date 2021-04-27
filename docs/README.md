@@ -26,6 +26,6 @@
 
 ## Routes
 - **/playlist**: returns titles of all playlists
-- **/playlist/<name>**: returns the contents of a particular playlist (all songs in playlist)
-- **/playlist/<type>**: returns all playlists of a particular type
+- **/playlist/&lt;name&gt;**: returns the contents of a particular playlist (all songs in playlist)
+- **/playlist/&lt;type&gt;**: returns all playlists of a particular type
 
